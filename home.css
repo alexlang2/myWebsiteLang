@@ -1,0 +1,59 @@
+body
+{
+    font-size: 80%;
+    font-family: "Trebuchet MS";
+    background-color:#8aacb8;
+    font-size:16px;
+
+}
+ul#tabs
+{
+    list-style-type: none;
+    margin: 25px 0 0 0;
+    padding: 0 0 0.3em 0;
+
+}
+ul#tabs li
+{
+    display: inline;
+
+}
+
+ul#tabs li a
+{
+    color: #42454a;
+    background-color: #ADD8E6;
+    border: 1px solid black;
+    border-bottom: none;
+    border-top-left-radius: 7px;
+    border-top-right-radius: 7px;
+    padding: 0.2em 1em 0.3em 1em;
+    text-decoration: none;
+
+
+}
+
+ul#tabs li a:hover
+{
+    background-color: #d6ebf2;
+}
+
+ul#tabs li a.selected
+{
+    color: #000;
+    background-color: #ADD8E6;
+    font-weight: bold;
+    padding: 0.7em 1em 0.38em 1em;
+}
+
+div.tabContent
+{
+    padding: 0.5em;
+    background-color: #ADD8E6;
+    border: 1px solid black;
+}
+
+div.tabContent.hide
+{
+    display: none;
+}

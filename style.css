@@ -1,0 +1,62 @@
+.description{
+
+    font-family: 'Trebuchet MS';
+    position: absolute;
+    top: 800px;
+    left: 220px;
+    font-size: 12.5px;
+    line-height:21px;
+    font-weight: 600;
+}
+
+.title{
+
+    font-family: "Arial Black";
+    position: absolute;
+    letter-spacing: -4px;
+    word-spacing: -8px;
+    top: 110px;
+    left: 130px;
+    font-size: 72px;
+    font-weight: 900;
+
+}
+
+.banner{
+    position: absolute;
+    top:45px;
+}
+
+.mainpic{
+    position: absolute;
+    top:230px;
+    left:145px;
+
+}
+
+.liveHard{
+    position:absolute;
+    font-family:"Arial Black";
+    letter-spacing:-1px;
+    top:900px;
+    left:260px;
+    font-size: 38px;
+    font-weight:900;
+    font-weight:bold;
+    font-stretch: condensed;
+}
+
+.logo{
+
+    position: absolute;
+    left: 30px;
+    top: 930px;
+}
+
+.myAd{
+
+    position:absolute;
+    top: 50px;
+    left: 800px;
+    height: 900px;
+}
